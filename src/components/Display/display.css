@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Lato&display=swap');
+.mainD {
+    letter-spacing: 8px;
+    font-family: "Lato", sans-serif;
+    color: #528156; 
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .display {
+    font-family: "Lato", sans-serif;
+    
+    color:#92b4a777; 
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  #main {
+    font-family: "Lato", sans-serif;
+    
+    margin-bottom: 10px;
+  }
+  
+  h2#main {
+    font-family: "Lato", sans-serif;
+    color: #92b4a777; 
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  p#main {
+    font-family: "Lato", sans-serif;
+    font-size: 18px;
+    margin: 5px 0;
+  }
+  
+  p#main::before {
+    font-family: "Lato", sans-serif;
+    content: '✦ '; 
+    color: #92b4a7; 
+  }
